@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Life4Builds/static/css/main.c19973c7.chunk.css",
+    "main.js": "/Life4Builds/static/js/main.7ab52cd0.chunk.js",
+    "main.js.map": "/Life4Builds/static/js/main.7ab52cd0.chunk.js.map",
+    "runtime-main.js": "/Life4Builds/static/js/runtime-main.97a36c55.js",
+    "runtime-main.js.map": "/Life4Builds/static/js/runtime-main.97a36c55.js.map",
+    "static/css/2.a02614e9.chunk.css": "/Life4Builds/static/css/2.a02614e9.chunk.css",
+    "static/js/2.28d57056.chunk.js": "/Life4Builds/static/js/2.28d57056.chunk.js",
+    "static/js/2.28d57056.chunk.js.map": "/Life4Builds/static/js/2.28d57056.chunk.js.map",
+    "static/js/3.88d8040b.chunk.js": "/Life4Builds/static/js/3.88d8040b.chunk.js",
+    "static/js/3.88d8040b.chunk.js.map": "/Life4Builds/static/js/3.88d8040b.chunk.js.map",
+    "index.html": "/Life4Builds/index.html",
+    "static/css/2.a02614e9.chunk.css.map": "/Life4Builds/static/css/2.a02614e9.chunk.css.map",
+    "static/css/main.c19973c7.chunk.css.map": "/Life4Builds/static/css/main.c19973c7.chunk.css.map",
+    "static/js/2.28d57056.chunk.js.LICENSE.txt": "/Life4Builds/static/js/2.28d57056.chunk.js.LICENSE.txt",
+    "static/media/image1.6669df68.jpg": "/Life4Builds/static/media/image1.6669df68.jpg",
+    "static/media/image2.e4f96d64.jpg": "/Life4Builds/static/media/image2.e4f96d64.jpg",
+    "static/media/image3.7679ce98.jpg": "/Life4Builds/static/media/image3.7679ce98.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97a36c55.js",
+    "static/css/2.a02614e9.chunk.css",
+    "static/js/2.28d57056.chunk.js",
+    "static/css/main.c19973c7.chunk.css",
+    "static/js/main.7ab52cd0.chunk.js"
+  ]
+}

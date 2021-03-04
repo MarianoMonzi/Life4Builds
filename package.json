@@ -2,7 +2,7 @@
   "name": "react-cards-bootstrap",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://marianomonzi.github.io/Life4Builds/",
+  "homepage": "https://MarianoMonzi.github.io/Life4Builds/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
